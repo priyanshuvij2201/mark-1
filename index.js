@@ -5,7 +5,6 @@ var topScorers = [
     name: "friend1",
     score: 5,
   },
-
   {
     name: "friend2",
     score: 3,
@@ -13,23 +12,23 @@ var topScorers = [
 ];
 var questions = [
   {
-    question: 'What is your last name?\n',
+    question: 'What is my last name?\n',
     answer: 'Vij',
   },
   {
-    question: '\nWhat is your favourite finance book?\n',
+    question: '\nWhat is my favourite finance book?\n',
     answer: 'Coffee Can Investing',
   },
   {
-    question: '\nWhat is your favourite movie?\n',
+    question: '\nWhat is my favourite movie?\n',
     answer: 'Devdas',
   },
   {
-    question: '\nWhat is your favourite tech product?\n',
+    question: '\nWhat is my favourite tech product?\n',
     answer: 'MacBook',
   },
   {
-    question: '\nWhat is my Birthday?\n',
+    question: '\nWhen is my Birthday?\n',
     answer: '22nd January',
   }
 ];
